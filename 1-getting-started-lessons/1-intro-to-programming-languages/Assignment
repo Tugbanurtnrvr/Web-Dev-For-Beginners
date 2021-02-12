@@ -1,0 +1,7 @@
+Web Geliştirme Araçları
+1. Sublime Text
+  Bir web geliştiricisi bu aracı çok çeşitli klavye kısayolları için kullanabilir. Bu araç benzer eğilimli değişiklikleri birden çok seçili alanda yaparak eşzamanlı düzenleme yapabilir. Dosyalar arasında hızı geçiş yapmayı sağlar. Birçok proglama dilinde kodlama yapmayı mümkün kılar.
+2. Chrome Developer Tools
+  Web sitesinin performans analizini görüntülerken aynı zamanda kodlamaları düzeltebilmemize olanak sunar. Zaman çizelgesi sayesinde her an ne yaptığımızı görüntüleyebiliriz. Koyu tema kullanabilir, yazı boyutunu arttırabilir, çift ekran kullanımı sağlayabilir, kısayolları kullanabilir, renk paletinden kolay bir şekilde yararlanabilir, yenileme butonunda ek özellikler bulabilir, network sekmesi içeriğini filtreleyebiliriz. Tüm projede arama yapabilir ve logların silinmesini engelleyebiliriz.
+3. jQuery
+   Bir JavaScript kütüphanesidir. Animasyon oluşturmak, eklentiler eklemek ve belgelerde gezinmek için başvurulabilir. JavaScript kullanımını kolaylaştırmayı amaçlar. Çoklu kod satırlarını tek bir koda sıkıştırır. HTML dokümanları üzerinde geçiş, bununla birlikte efekt yapma ve olay yönetimini pratikleştirir. 
