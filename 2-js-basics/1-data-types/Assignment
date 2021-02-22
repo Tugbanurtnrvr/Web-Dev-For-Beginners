@@ -1,0 +1,9 @@
+Alışveriş deneyimini tamamlamak için ihtiyaç duyulacak veri türleri
+1. String;
+ String ile alışveriş sepetimize ekleyeceğimiz ürün adlarını belirleyebiliriz. Aynı şekilde ürün özellikleri de belirlenebilir.
+2. Number;
+ Number yani sayılarla ürünlerin fiyatlarını yazabiliriz.
+3. Undefined;
+  Sepete eklemek istediğimiz bir ürünü bulamadığımızda bu şekilde tanımlanabilir. Stokta almak istediğimiz ürün kalmadığında kullanılabilir.
+4. Symbol;
+ Sembollerle ürünlerin özelliklerini görüntüleyebiliriz.
