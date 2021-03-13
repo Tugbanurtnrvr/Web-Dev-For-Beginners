@@ -1,0 +1,19 @@
+<! DOCTYPE html>
+<html>
+<head>
+  <title>My Webpage</title>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+</head>
+<body> 
+  <div class="class1">
+    <h1> <b> Welcome To My Webpage! <b> </h1>
+  </div>
+  <div class="class2">
+    <h2> Read on to know more <em> about me. </em> <h2>
+      <h3> Hi. I'm <em> <b> Tuğba. </b> </em> </h3>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Ivy_Hedera_Red_Brick_Wall_2892px.jpg/1024px-Ivy_Hedera_Red_Brick_Wall_2892px.jpg" width="25%" />
+      </div>
+</body>
+</html>
